@@ -4,7 +4,7 @@
   <img src="https://www.aluracursos.com/assets/img/imersoes/alura-latam-logo.1686744883.png" width="200">
 </p>
 
-Bienvenidos al repositorio del curso "Python para Data Science: Introducción al Lenguaje".
+Bienvenidos al repositorio de mis apuntes del curso "Python para Data Science: Introducción al Lenguaje" de Alura Latam ofrecido a los gruadados AlumniONE de Oracle Next Education.
 
 ## Índice
 
@@ -16,7 +16,7 @@ Bienvenidos al repositorio del curso "Python para Data Science: Introducción al
 
 ## Descripción General
 
-Este repositorio contiene todos los notebooks, bases de datos y archivos necesarios para el curso. El curso cubre desde escribir y ejecutar tu primer código Python hasta aprender a usar Matplotlib para generar gráficos.
+Este repositorio contiene mi notebook con mis apuntes y ejercicios tomados del curso. El curso cubre desde escribir y ejecutar tu primer código Python hasta aprender a usar Matplotlib para generar gráficos.
 
 ## Clases
 
